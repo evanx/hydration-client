@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "babel": "^5.1.10",
+    "babel": "^6.23.0",
     "eslint": "^6.0.1",
-    "lodash": "~3.6.0",
+    "lodash": "^4.17.14",
     "marked": "^0.7.0",
     "react": "~0.13.1",
     "redis": "^0.12.1"
